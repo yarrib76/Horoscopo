@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Horoscopo</string>
+    <string name="text_chino">Chino</string>
+    <string name="text_zoodiaco">Zoodiaco</string>
+    <string name="text_configuacion">Configuracion</string>
+    <string name="text_acercade">Acerca De</string>
+    <string name="text_titulo">Horoscopo</string>
+</resources>
